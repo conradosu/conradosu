@@ -7,14 +7,14 @@
 ⭐ Estou programando todos os dias, sem exceções. Possuo uma média de 10 commits diários e 125 commits mensais em diversos projetos.<br/>
 ⭐ Já trabalhei em mais de 30 projetos diferentes só no último ano, de média e grande escala, com diferentes propósitos e funções. Desde e-commerces a bots automatizados.<br/><br/>
  
+ 
 <div align="left">
-  <a href="https://github.com/dwmartins">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=conradosu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-<br/>
-<div align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=conradosu&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0"/>
+  <br/><br/> 
+  <img src="https://github-readme-stats.vercel.app/api?username=conradosu&show_icons=true&theme=radical&line_height=27"/>
+  <br/><br/>
   <img src="https://activity-graph.herokuapp.com/graph?username=conradosu&theme=redical">
-</div> 
+</div>
 
 <br/>
 <div> 
