@@ -5,7 +5,7 @@
 📕 Além das citadas a cima, também possuo conhecimento em diversas outras tecnologias, linguagens e frameworks diferentes.<br/>
 
 ⭐ Estou programando todos os dias, sem exceções. Possuo uma média de 10 commits diários e 125 commits mensais em diversos projetos.<br/>
-⭐ Já trabalhei em mais de 30 projetos diferentes só no último ano, de média e grande escala, com diferentes propósitos e funções. Desde e-commerces a bots automatizados.<br/><br/>
+⭐ Já trabalhei em mais de 30 projetos diferentes só no último ano, de média e grande escala, com diferentes propósitos e funções, desde e-commerces a bots automatizados.<br/><br/>
  
  
 <div align="left">
