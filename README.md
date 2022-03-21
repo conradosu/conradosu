@@ -11,8 +11,6 @@
 <div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=conradosu&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0"/>
   <br/><br/> 
-  <img src="https://github-readme-stats.vercel.app/api?username=conradosu&show_icons=true&theme=radical&line_height=27"/>
-  <br/><br/>
   <img src="https://activity-graph.herokuapp.com/graph?username=conradosu&theme=redical">
 </div>
 
