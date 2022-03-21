@@ -9,8 +9,12 @@
  
 <div align="left">
   <a href="https://github.com/dwmartins">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=conradosu&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=conradosu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+<br/>
+<div align="left">
+  <img src="https://activity-graph.herokuapp.com/graph?username=conradosu&theme=redical">
+</div> 
 
 <br/>
 <div> 
