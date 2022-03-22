@@ -1,9 +1,10 @@
-
+Victor Conrado | Curitiba - PR
 
 💼 Trabalho há mais de 5 anos como programador Full Stack, com foco - porém não se limitando - no desenvolvimento web.<br/>
 📙 Atuo principalmente utilizando React, Next.js, Node.js, PostgreSQL, GraphQL e diversos serviços da AWS.<br/>
 📕 Além das citadas a cima, também possuo conhecimento em diversas outras tecnologias, linguagens e frameworks diferentes.<br/>
 
+<strong>Curiosidades</strong>
 ⭐ Estou programando todos os dias, sem exceções. Possuo uma média de 10 commits diários e 125 commits mensais em diversos projetos.<br/>
 ⭐ Já trabalhei em mais de 30 projetos diferentes só no último ano, de média e grande escala, com diferentes propósitos e funções, desde e-commerces a bots automatizados.<br/><br/>
  
