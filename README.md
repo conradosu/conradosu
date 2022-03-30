@@ -6,7 +6,7 @@ Hi there! My name is Victor Conrado and I'm a Full-stack developer mainly workin
 📙 I work mainly using React, Next.js, Node, PostgreSQL, GraphQL, Heroku and several services from AWS.<br/>
 📕 In addition to those technologies mentioned above, I also have experience with several other languagens, frameworks and databases.<br/>
 
-⭐ I currently act as a Full-stack developer at Bruko.pro.
+⭐ I currently act as a Full-stack developer at Bruko.pro.<br/>
 ⭐ I'm open to freenlancer jobs ⭐
  
 <div align="left">
