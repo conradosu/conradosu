@@ -1,13 +1,13 @@
-Victor Conrado | Curitiba - PR
+Hi there! My name is Victor Conrado and I'm a Full-stack developer mainly working with React, Next.js, Node and PostgreSQL.
 
-💼 Trabalho há mais de 5 anos como programador Full Stack, com foco - porém não se limitando - no desenvolvimento web.<br/>
-📙 Atuo principalmente utilizando React, Next.js, Node.js, PostgreSQL, GraphQL e diversos serviços da AWS.<br/>
-📕 Além das citadas a cima, também possuo conhecimento em diversas outras tecnologias, linguagens e frameworks diferentes.<br/>
+<strong>About me</strong>
 
-<strong>Curiosidades</strong><br/>
-⭐ Estou programando todos os dias, sem exceções. Possuo uma média de 10 commits diários e 125 commits mensais em diversos projetos.<br/>
-⭐ Já trabalhei em mais de 30 projetos diferentes só no último ano, de média e grande escala, com diferentes propósitos e funções, desde e-commerces a bots automatizados.<br/><br/>
- 
+💼 I have more than 5 years of experience as a Full-stack developer.<br/>
+📙 I work mainly using React, Next.js, Node, PostgreSQL, GraphQL, Heroku and several services from AWS.<br/>
+📕 In addition to those technologies mentioned above, I also have experience with several other languagens, frameworks and databases.<br/>
+
+⭐ I currently act as a Full-stack developer at Bruko.pro.
+⭐ I'm open to freenlancer jobs ⭐
  
 <div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=conradosu&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0"/>
