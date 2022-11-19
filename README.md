@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:conrado@gestaoemdados.com)](conrado@gestaoemdados.com)
 
 <p align="center">
-<a href="https://github.com/gbretas">
+<a href="https://github.com/conradosu">
 <img height="170em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=conradosu&layout=compact" />
 <img height="170em" align="left" src="https://github-readme-stats.vercel.app/api?username=conradosu&show_icons=true&count_private=true" />
 </a>
